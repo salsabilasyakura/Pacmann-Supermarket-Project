@@ -45,6 +45,16 @@ Function total Flowcart:
 4. delete_item : Function to delete an item(s)
 5. reset : Function reset all transaction
 6. total_price : Function to calculate total price
-## Test Case
-## Conclusion
-## Suggestion
+## Test Cases
+Test case 1: Add item into shopping bag
+##
+Test case 2: Delete item
+##
+Test case 3: Reset transaction
+##
+Test case 4:Checkout order
+
+## Conclusion and Suggestion
+ 1. Create Object Oriented Programming with Class for all main program
+ 2. Develop programs with more complex systems such as scan product barcodes where these exist, weighing products (such as fresh produce) without barcodes, and selecting the variety on a touchscreen display.
+Author Copyright (c) 2023 Salsabila Syakura

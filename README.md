@@ -8,8 +8,8 @@ This project is a self-service cashier system to improve business processes in s
   4. Apply PEP8 principles to write clean Python program
 ##
  Program Objectives:
-  1. Adding new transaction id into system
-  2. Adding new item information into shopping bag
+  1. Create new transaction id into system
+  2. Add new item information into shopping bag
   3. Modify exist item list by updating item name, quantity, or price/item
   4. Delete item(s)
   5. Reset all transaction

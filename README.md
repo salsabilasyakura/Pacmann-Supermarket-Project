@@ -6,6 +6,7 @@ This project is a self-service cashier system to improve business processes in s
   2. Using Object Oriented Programming to create Python Program
   3. Using Try and Except to avoid error in branching
   4. Apply PEP8 principles to write clean Python program
+##
  Program Objectives:
   1. Adding new transaction id into system
   2. Adding new item information into shopping bag

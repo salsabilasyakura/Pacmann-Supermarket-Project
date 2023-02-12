@@ -16,12 +16,15 @@ This project is a self-service cashier system to improve business processes in s
   6. Checkout order / purchase
 ## Flowchart
 Main Flowcart:
+##
 ![image](https://user-images.githubusercontent.com/92718198/218317333-68a3a3f9-30f6-4d4f-b5c3-ba07eac8208f.png)
 ##
 Function add_item Flowcart:
+##
 ![image](https://user-images.githubusercontent.com/92718198/218317482-15b1b7bd-1822-470a-8c84-89886931d96f.png)
 ##
 Function modify Flowcart:
+##
 ![image](https://user-images.githubusercontent.com/92718198/218317506-687cc62a-bbca-449a-ad7c-f40c29eb97e3.png)
 ##
 Function delete Flowcart:

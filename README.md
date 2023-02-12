@@ -37,7 +37,7 @@ Function reset Flowcart:
 ##
 Function total Flowcart:
 ###
-![image](https://user-images.githubusercontent.com/92718198/218318548-aa44d976-52e8-404c-86ad-26a95ac70e96.png)
+![image](https://user-images.githubusercontent.com/92718198/218318624-b56e1fd0-2e87-4c4b-af35-860441ad9a03.png)
 ## About Function
 1. process
 2. add_item

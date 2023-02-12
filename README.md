@@ -62,7 +62,7 @@ Test case 4:Checkout order
 ###
 ![Test Case 4](https://user-images.githubusercontent.com/92718198/218322082-71091147-1840-4262-b82e-1b7202c338fa.png)
 ## Conclusion and Suggestion
- 1. Create Object Oriented Programming with Class for all main program
+ 1. Create Object Oriented Programming with Class for all program
  2. Develop programs with more complex systems such as scan product barcodes where these exist, weighing products (such as fresh produce) without barcodes, and selecting the variety of items.
 
 Author Copyright (c) 2023 Salsabila Syakura

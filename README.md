@@ -18,6 +18,7 @@ This project is a self-service cashier system to improve business processes in s
 Main Flowcart:
 ###
 ![image](https://user-images.githubusercontent.com/92718198/218317333-68a3a3f9-30f6-4d4f-b5c3-ba07eac8208f.png)
+##
 Function add_item Flowcart:
 ###
 ![image](https://user-images.githubusercontent.com/92718198/218317482-15b1b7bd-1822-470a-8c84-89886931d96f.png)
@@ -38,6 +39,12 @@ Function total Flowcart:
 ###
 ![image](https://user-images.githubusercontent.com/92718198/218317680-9e5a8a19-6ddd-4e9a-a91a-d76988555810.png)
 ## About Function
+1. process
+2. add_item
+3. modify
+4. delete_item
+5. reset
+6. total_price
 ## Test Case
 ## Conclusion
 ## Suggestion

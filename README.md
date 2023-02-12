@@ -21,15 +21,15 @@ Main Flowcart:
 ##
 Function add_item Flowcart:
 ###
-![image](https://user-images.githubusercontent.com/92718198/218317482-15b1b7bd-1822-470a-8c84-89886931d96f.png)
+![image](https://user-images.githubusercontent.com/92718198/218318256-20ab8b32-842d-4524-920c-b8f47a4ccbc8.png)
 ##
 Function modify Flowcart:
 ###
-![image](https://user-images.githubusercontent.com/92718198/218317506-687cc62a-bbca-449a-ad7c-f40c29eb97e3.png)
+![image](https://user-images.githubusercontent.com/92718198/218318280-dd333025-03b3-421b-a4e6-a45ac05bb31f.png)
 ##
 Function delete Flowcart:
 ###
-![image](https://user-images.githubusercontent.com/92718198/218317515-83a3845f-ba08-4a54-9e58-914c8f0fcd2a.png)
+![image](https://user-images.githubusercontent.com/92718198/218318342-3064856d-1086-481f-b1f7-38ad92268835.png)
 ##
 Function reset Flowcart:
 ###
@@ -37,7 +37,7 @@ Function reset Flowcart:
 ##
 Function total Flowcart:
 ###
-![image](https://user-images.githubusercontent.com/92718198/218317680-9e5a8a19-6ddd-4e9a-a91a-d76988555810.png)
+![image](https://user-images.githubusercontent.com/92718198/218318548-aa44d976-52e8-404c-86ad-26a95ac70e96.png)
 ## About Function
 1. process
 2. add_item

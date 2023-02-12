@@ -58,4 +58,4 @@ Test case 4:Checkout order
  1. Create Object Oriented Programming with Class for all main program
  2. Develop programs with more complex systems such as scan product barcodes where these exist, weighing products (such as fresh produce) without barcodes, and selecting the variety on a touchscreen display.
 
-##Author Copyright (c) 2023 Salsabila Syakura
+Author Copyright (c) 2023 Salsabila Syakura

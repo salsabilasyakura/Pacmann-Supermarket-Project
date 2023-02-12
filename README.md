@@ -39,12 +39,12 @@ Function total Flowcart:
 ###
 ![image](https://user-images.githubusercontent.com/92718198/218318876-9bb8aeca-2484-4494-8fbb-f8c12685cd8f.png)
 ## About Function
-1. process
-2. add_item
-3. modify
-4. delete_item
-5. reset
-6. total_price
+1. process : User interface Layout and run main program
+2. add_item : Function to add item into list by user
+3. modify : Function to updating items (name, quantity or price/item) into shopping bag
+4. delete_item : Function to delete an item(s)
+5. reset : Function reset all transaction
+6. total_price : Function to calculate total price
 ## Test Case
 ## Conclusion
 ## Suggestion

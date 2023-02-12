@@ -47,6 +47,8 @@ Function total Flowcart:
 6. total_price : Function to calculate total price
 ## Test Cases
 Test case 1: Add item into shopping bag
+###
+![Test Case 1](https://user-images.githubusercontent.com/92718198/218321964-76e88ac6-4cb8-46f8-a213-a827af720852.png)
 ##
 Test case 2: Delete item
 ##

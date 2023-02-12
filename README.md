@@ -51,13 +51,18 @@ Test case 1: Add item into shopping bag
 ![Test Case 1](https://user-images.githubusercontent.com/92718198/218321964-76e88ac6-4cb8-46f8-a213-a827af720852.png)
 ##
 Test case 2: Delete item
+###
+![Test Case 2](https://user-images.githubusercontent.com/92718198/218322025-1de6b829-70a7-4088-8822-cc7567d3a605.png)
 ##
 Test case 3: Reset transaction
+###
+![Test Case 3](https://user-images.githubusercontent.com/92718198/218322056-ce876f8a-92ee-4ac9-bbe2-e5f64e85b9ef.png)
 ##
 Test case 4:Checkout order
-
+###
+![Test Case 4](https://user-images.githubusercontent.com/92718198/218322082-71091147-1840-4262-b82e-1b7202c338fa.png)
 ## Conclusion and Suggestion
  1. Create Object Oriented Programming with Class for all main program
- 2. Develop programs with more complex systems such as scan product barcodes where these exist, weighing products (such as fresh produce) without barcodes, and selecting the variety on a touchscreen display.
+ 2. Develop programs with more complex systems such as scan product barcodes where these exist, weighing products (such as fresh produce) without barcodes, and selecting the variety of items.
 
 Author Copyright (c) 2023 Salsabila Syakura
